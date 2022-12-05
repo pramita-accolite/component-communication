@@ -12,4 +12,8 @@ export class VendorComponent implements OnInit {
   ngOnInit(): void {
   }
 
+
+  vendorDetails = [{name:"Pramita",age:30,city:"Kolkata"},{name:"Ram",age:35,city:"Asansol"},{name:"Ita",age:78,city:"Mumbai"}]
+
+
 }
